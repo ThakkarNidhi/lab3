@@ -1,0 +1,23 @@
+{
+  "name": "lab3",
+  "authors": [
+    "NidhiThakkar <thakkarnidhi20@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
